@@ -1,0 +1,6 @@
+#!name=Name Here
+#!desc=Description Here
+#!system=mac
+
+[General]
+http-api = examplekey@0.0.0.0:6171

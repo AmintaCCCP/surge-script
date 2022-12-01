@@ -1,5 +1,5 @@
-#!name=Name Here
-#!desc=Description Here
+#!name=开启http-api
+#!desc=订阅机场附加模块
 #!system=mac
 
 [General]

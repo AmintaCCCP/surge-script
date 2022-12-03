@@ -4,3 +4,4 @@
 
 [General]
 http-api = examplekey@0.0.0.0:6171
+http-api-web-dashboard = true

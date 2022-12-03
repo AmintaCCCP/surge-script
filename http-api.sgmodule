@@ -5,3 +5,8 @@
 [General]
 http-api = examplekey@0.0.0.0:6171
 http-api-web-dashboard = true
+test-timeout = 2
+internet-test-url = http://www.baidu.com
+proxy-test-url = http://www.google.com/generate_204
+geoip-maxmind-url = https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb
+exclude-simple-hostnames = true

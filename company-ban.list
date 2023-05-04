@@ -1,4 +1,6 @@
 # 蒲公英
-DOMAIN-SUFFIX,oray.com
-DOMAIN-SUFFIX,oray.net
-DOMAIN-SUFFIX,orayimg.com
+# DOMAIN-SUFFIX,oray.com
+# DOMAIN-SUFFIX,oray.net
+# DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,adobe.com

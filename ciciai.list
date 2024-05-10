@@ -5,5 +5,8 @@ DOMAIN-SUFFIX,lf-rc1.yhgfb-static.com
 DOMAIN-SUFFIX,itobsnssdk.com
 IP-CIDR, 23.40.243.0/24,no-resolve
 IP-CIDR, 34.96.106.0/24,no-resolve
+IP-CIDR, 23.195.119.0/24,no-resolve
+IP-CIDR, 34.107.238.0/24,no-resolve
+
 #coze
 DOMAIN-SUFFIX,coze.com

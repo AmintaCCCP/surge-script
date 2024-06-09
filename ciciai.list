@@ -13,6 +13,8 @@ IP-CIDR,23.202.34.0/24,no-resolve
 IP-CIDR,199.232.234.0/24,no-resolve
 IP-CIDR,23.59.80.0/24,no-resolve
 IP-CIDR,23.52.128.0/24,no-resolve
+IP-CIDR,104.116.243.0/24,no-resolve
+IP-CIDR,167.82.86.0/24,no-resolve
 DOMAIN-KEYWORD,ciciai
 DOMAIN-SUFFIX,oceanapi-i18n.com
 

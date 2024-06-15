@@ -15,8 +15,20 @@ IP-CIDR,23.59.80.0/24,no-resolve
 IP-CIDR,23.52.128.0/24,no-resolve
 IP-CIDR,104.116.243.0/24,no-resolve
 IP-CIDR,167.82.86.0/24,no-resolve
+IP-CIDR,42.99.128.0/24,no-resolve
+IP-CIDR,34.120.84.0/24,no-resolve
 DOMAIN-KEYWORD,ciciai
 DOMAIN-SUFFIX,oceanapi-i18n.com
+DOMAIN,audio16-normal-i18n-alisg.ciciai.com
+DOMAIN,ichannel-i18n.ciciai.com
+DOMAIN,log-applog-i18n.ciciai.com
+DOMAIN,api22-normal-i18n-alisg.ciciai.com
+DOMAIN,api19-normal-i18n-alisg.ciciai.com
+DOMAIN,audio16-normal-i18n-alisg.ciciai.com
+DOMAIN,mssdk-i18n-sg.ciciai.com
+DOMAIN,tnc16-i18n-sg.ciciai.com
+DOMAIN,wss22-normal-i18n-alisg.ciciai.com
+DOMAIN,ichannel-i18n.ciciai.com
 
 #coze
 DOMAIN-SUFFIX,coze.com

@@ -29,6 +29,11 @@ DOMAIN,mssdk-i18n-sg.ciciai.com
 DOMAIN,tnc16-i18n-sg.ciciai.com
 DOMAIN,wss22-normal-i18n-alisg.ciciai.com
 DOMAIN,ichannel-i18n.ciciai.com
+IP-ASN,396982,no-resolve
+IP-ASN,20940,no-resolve
+IP-ASN,15169,no-resolve
+IP-ASN,54113,no-resolve
+IP-ASN,16509,no-resolve
 
 #coze
 DOMAIN-SUFFIX,coze.com

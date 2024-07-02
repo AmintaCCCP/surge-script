@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
 # huggingface
 #DOMAIN-SUFFIX,huggingface.co
+# gemini
+DOMAIN-SUFFIX,app-analytics-services.com

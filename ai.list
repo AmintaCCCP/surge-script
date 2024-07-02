@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,pplx.ai
 #DOMAIN-SUFFIX,huggingface.co
 # gemini
 DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google-analytics.com

@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,volces.com
 # perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,eppo.cloud
 # huggingface
 #DOMAIN-SUFFIX,huggingface.co
 # gemini

@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,macsc.com
-DOMAIN-SUFFIX,iconfont.cn
+# DOMAIN-SUFFIX,iconfont.cn
 DOMAIN-SUFFIX,baidu.com
 DOMAIN,pss.bdstatic.com
 DOMAIN,cdn.mac89.com

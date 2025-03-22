@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google-analytics.com
+# groq
+DOMAIN-SUFFIX,groq.com

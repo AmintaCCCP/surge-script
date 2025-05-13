@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,vmweb-va.ciciai.com
 DOMAIN-SUFFIX,mcs-va.ciciai.com
 DOMAIN-SUFFIX,itobsnssdk.com
 DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,bytedapm.com
 IP-CIDR,23.40.243.0/24,no-resolve
 IP-CIDR,34.96.106.0/24,no-resolve
 IP-CIDR,23.195.119.0/24,no-resolve
@@ -31,6 +32,13 @@ DOMAIN,mssdk-i18n-sg.ciciai.com
 DOMAIN,tnc16-i18n-sg.ciciai.com
 DOMAIN,wss22-normal-i18n-alisg.ciciai.com
 DOMAIN,ichannel-i18n.ciciai.com
+DOMAIN,gator.volces.com
+DOMAIN,mcs-va.ciciai.com
+DOMAIN,vmweb-va.ciciai.com
+DOMAIN,sf16-short-va.bytedapm.com
+DOMAIN,sf-flow-web-cdn.ciciaicdn.com
+DOMAIN,starling-oversea.byteoversea.com
+DOMAIN,opt-i18n.ciciai.com
 IP-ASN,396982,no-resolve
 IP-ASN,20940,no-resolve
 IP-ASN,15169,no-resolve

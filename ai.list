@@ -1,21 +1,22 @@
 # Arc
-DOMAIN-SUFFIX,arc.net
-DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
+DOMAIN-SUFFIX,arc.net,no-resolve
+DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app,no-resolve
 # Dia
-DOMAIN,diabrowser.engineering
-DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,diabrowser.com
+DOMAIN,diabrowser.engineering,no-resolve
+DOMAIN-SUFFIX,launchdarkly.com,no-resolve
+DOMAIN-SUFFIX,diabrowser.com,no-resolve
+IP-ASN,9808,no-resolve
 # Popai
-DOMAIN-SUFFIX,popai.pro
+DOMAIN-SUFFIX,popai.pro,no-resolve
 # Meta
-DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,meta.ai,no-resolve
+DOMAIN-SUFFIX,fbcdn.net,no-resolve
+DOMAIN-SUFFIX,volces.com,no-resolve
 # huggingface
-#DOMAIN-SUFFIX,huggingface.co
+#DOMAIN-SUFFIX,huggingface.co,no-resolve
 # gemini
-DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,app-analytics-services.com,no-resolve
+DOMAIN-SUFFIX,googleapis.com,no-resolve
+DOMAIN-SUFFIX,google-analytics.com,no-resolve
 # groq
-DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,groq.com,no-resolve

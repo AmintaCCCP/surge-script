@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
 # Dia
 DOMAIN,diabrowser.engineering
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,diabrowser.com
 # Popai
 DOMAIN-SUFFIX,popai.pro
 # Meta

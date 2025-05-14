@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app,no-resolve
 DOMAIN,diabrowser.engineering,no-resolve
 DOMAIN-SUFFIX,launchdarkly.com,no-resolve
 DOMAIN-SUFFIX,diabrowser.com,no-resolve
-IP-ASN,9808,no-resolve
 # Popai
 DOMAIN-SUFFIX,popai.pro,no-resolve
 # Meta

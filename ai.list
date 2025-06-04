@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,arc.net,no-resolve
 DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app,no-resolve
 # Dia
-DOMAIN,diabrowser.engineering,no-resolve
+DOMAIN-SUFFIX,diabrowser.engineering,no-resolve
 DOMAIN-SUFFIX,launchdarkly.com,no-resolve
 DOMAIN-SUFFIX,diabrowser.com,no-resolve
 # Popai

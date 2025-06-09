@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,googleapis.com,no-resolve
 DOMAIN-SUFFIX,google-analytics.com,no-resolve
 # groq
 DOMAIN-SUFFIX,groq.com,no-resolve
+# FFA
+DOMAIN-SUFFIX,ffa.chat

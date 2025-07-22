@@ -21,3 +21,5 @@ DOMAIN-SUFFIX,google-analytics.com,no-resolve
 DOMAIN-SUFFIX,groq.com,no-resolve
 # FFA
 DOMAIN-SUFFIX,ffa.chat
+# Zed
+DOMAIN-SUFFIX,zed.dev

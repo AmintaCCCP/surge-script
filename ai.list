@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,volces.com,no-resolve
 DOMAIN-SUFFIX,app-analytics-services.com,no-resolve
 DOMAIN-SUFFIX,googleapis.com,no-resolve
 DOMAIN-SUFFIX,google-analytics.com,no-resolve
+DOMAIN-SUFFIX,ai.studio
 # groq
 DOMAIN-SUFFIX,groq.com,no-resolve
 # FFA

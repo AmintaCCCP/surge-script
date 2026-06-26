@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,volces.com,no-resolve
 # huggingface
 #DOMAIN-SUFFIX,huggingface.co,no-resolve
 # gemini
+DOMAIN-SUFFIX,g.ai,no-resolve
 DOMAIN-SUFFIX,app-analytics-services.com,no-resolve
 DOMAIN-SUFFIX,googleapis.com,no-resolve
 DOMAIN-SUFFIX,google-analytics.com,no-resolve

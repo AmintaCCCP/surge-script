@@ -1,14 +1,14 @@
 #!name=Tailscale
 #!desc=Tailscale 节点配置段，参数可自定义。
-#!arguments=auth_key=tskey-auth-example&control_url=https://controlplane.tailscale.com&hostname=surge-mac&derp_only=false&exit_node=none&idle_keepalive=600&prefer_ipv6=false&dns_server=&mtu=1280
+#!arguments=auth_key:tskey-auth-example,control_url:https://controlplane.tailscale.com,hostname:surge-mac,derp_only:false,exit_node:none,idle_keepalive:600,prefer_ipv6:false,dns_server:,mtu:1280
 
-[Tailscale Home]
-auth-key = %auth_key%
-control-url = %control_url%
-hostname = %hostname%
-derp-only = %derp_only%
-exit-node = %exit_node%
-idle-keepalive = %idle_keepalive%
-prefer-ipv6 = %prefer_ipv6%
-dns-server = %dns_server%
-mtu = %mtu%
+[Tailscale tailscale-module]
+auth-key = {{{auth_key}}}
+control-url = {{{control_url}}}
+hostname = {{{hostname}}}
+derp-only = {{{derp_only}}}
+exit-node = {{{exit_node}}}
+idle-keepalive = {{{idle_keepalive}}}
+prefer-ipv6 = {{{prefer_ipv6}}}
+dns-server = {{{dns_server}}}
+mtu = {{{mtu}}}

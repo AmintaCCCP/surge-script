@@ -1,15 +1,14 @@
 #!name=Tailscale
-#!desc=Tailscale 节点配置段（仅 [Tailscale]，不含 [Proxy] 策略行与分流规则）。所有参数可通过 Arguments 自定义。
-#!arguments=auth_key:tskey-auth-example,control_url:https://controlplane.tailscale.com,hostname:surge-mac,derp_only:false,exit_node:none,idle_keepalive:600,prefer_ipv6:false,dns_server:,mtu:1280
-#!arguments-desc=auth_key: Tailscale 认证密钥（必填，需为可免交互注册的 preauth key）\ncontrol_url: 控制服务器地址\nhostname: 注册到控制服务器的主机名\nderp_only: 是否强制所有对端流量走 DERP 中继（true/false）\nexit_node: 出口节点（none / auto / 节点选择器）\nidle_keepalive: 空闲会话保留秒数，0 或负数表示常驻\nprefer_ipv6: 双栈时是否优先 IPv6（true/false）\ndns_server: 自定义 DNS 解析器，逗号分隔；留空则用控制平面下发的解析器\nmtu: 三层 MTU，范围 576-1420
+#!desc=Tailscale 节点配置段，参数可自定义。
+#!arguments=auth_key=tskey-auth-example&control_url=https://controlplane.tailscale.com&hostname=surge-mac&derp_only=false&exit_node=none&idle_keepalive=600&prefer_ipv6=false&dns_server=&mtu=1280
 
-[Tailscale tailscale-module]
-auth-key = {{{auth_key}}}
-control-url = {{{control_url}}}
-hostname = {{{hostname}}}
-derp-only = {{{derp_only}}}
-exit-node = {{{exit_node}}}
-idle-keepalive = {{{idle_keepalive}}}
-prefer-ipv6 = {{{prefer_ipv6}}}
-dns-server = {{{dns_server}}}
-mtu = {{{mtu}}}
+[Tailscale Home]
+auth-key = %auth_key%
+control-url = %control_url%
+hostname = %hostname%
+derp-only = %derp_only%
+exit-node = %exit_node%
+idle-keepalive = %idle_keepalive%
+prefer-ipv6 = %prefer_ipv6%
+dns-server = %dns_server%
+mtu = %mtu%
